@@ -1,6 +1,10 @@
 # ManaMi AI
 ![ManaMi AI Logo](logo.png)
 
+## 📧 Contact
+Website: [https://manamix.io](https://manamix.io)
+X Link: [https://x.com/Manamixio](https://x.com/Manamixio)
+
 ## 🚀 Overview
 
 ManaMi AI is a powerful AI-driven framework for automated trading analysis and social interaction. It combines Twitter integration, AI trend analysis, and Telegram bot functionality to provide comprehensive trading insights and automated trading recommendations.
@@ -184,10 +188,6 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 - Issue Tracker
 - Email Support
 - Regular Updates
-
-## 📧 Contact
-
-X Link: [https://x.com/Manamixio](https://x.com/Manamixio)
 
 ## ⚠️ Disclaimer
 
