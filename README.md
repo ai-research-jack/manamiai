@@ -187,7 +187,7 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
 
-Project Link: [https://github.com/yourusername/manamiai](https://github.com/yourusername/manamiai)
+X Link: [https://x.com/Manamixio](https://x.com/Manamixio)
 
 ## ⚠️ Disclaimer
 
