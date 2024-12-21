@@ -99,6 +99,7 @@ create-agent
 agent-loop
 ```
 
+
 ### Basic Setup
 
 1. Configure API Keys
@@ -106,7 +107,9 @@ agent-loop
 3. Configure Trading Strategies
 4. Set up Notifications
 
+
 ## 🔜 Roadmap
+
 
 ### Phase 1: Foundation (Current)
 - ✅ AI Twitter Bot Framework
