@@ -131,7 +131,9 @@ agent-loop
 - 🔮 Advanced Portfolio Optimization
 - 🔮 Custom Strategy Builder
 
+
 ## ⚡ Key Features in Detail
+
 
 ### AI Trend Analysis
 - Real-time market sentiment analysis
@@ -139,6 +141,7 @@ agent-loop
 - News impact analysis
 - Price movement prediction
 - Automated trading signals
+
 
 ### Telegram Bot Features
 - Market alerts and notifications
